@@ -1,0 +1,5 @@
+/*
+1.npm install nw-builder --save-dev
+配置命令："build": "nwbuild -p win64 --quiet ./src", "dev":"nwbuild -r ./src" 外面的package.json是npm依赖安装包的配置，src下面的package.json是app桌面应用配置
+2.下载Enigma Virtual Box打成独立的可执行的exe文件 http://enigmaprotector.com/en/downloads.html选择Enigma Virtual Box下载
+ */
